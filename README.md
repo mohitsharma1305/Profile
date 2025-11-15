@@ -4,7 +4,7 @@ I'm a passionate and curious developer currently pursuing my B.Tech in **Artific
 
 ---
 
-#### 🚀 What I Do
+#### 🚀 What I Do 
 
 - 🔭 Currently working on full-stack projects and exploring AI/ML.
 - 🎨 Designing user-centric UI/UX experiences in Figma and frontend tools.

@@ -27,7 +27,7 @@ I'm a passionate and curious developer currently pursuing my B.Tech in **Artific
 
 #### 🧰 Tech Toolbox
 
-`C` · `C++` · `React` ·  `FastAPI` · `Figma`  · `Git/GitHub`
+`C` · `C++` · `React` · `FastAPI` · `Figma`  · `Git/GitHub`
 
 ---
 
